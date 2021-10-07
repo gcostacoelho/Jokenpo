@@ -40,7 +40,7 @@ def comecaJogo():
                 print(Fore.CYAN + '\nSaindo do jogo, obrigado por jogar :)')
                 break
         else: 
-            print(Fore.CYAN + 'Obrigado por jogador ;)')
+            print(Fore.CYAN + 'Obrigado por jogar ;)')
             break
 
 def verificaPlayer():
